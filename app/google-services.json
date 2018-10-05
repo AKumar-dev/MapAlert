@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "734589155317",
+    "firebase_url": "https://mapapp-d076a.firebaseio.com",
+    "project_id": "mapapp-d076a",
+    "storage_bucket": "mapapp-d076a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734589155317:android:0bae768393f079e0",
+        "android_client_info": {
+          "package_name": "com.app.hophacks.map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734589155317-cogtbuddn4munkaj3fpsb886utc2gr6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.hophacks.map",
+            "certificate_hash": "9c16315b47edac14d9930aa1c35f20d4dacbba50"
+          }
+        },
+        {
+          "client_id": "734589155317-f1d4m91epbmrmldj1rc9bcn7u1hs3cks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.hophacks.map",
+            "certificate_hash": "cf7f0720d5e2ad02c9eb8a27029a2be7e90db54b"
+          }
+        },
+        {
+          "client_id": "734589155317-8uaobkk2l1ipgdusd04361oqfgbrtkrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "sorry, not for your eyes"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734589155317-8uaobkk2l1ipgdusd04361oqfgbrtkrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
